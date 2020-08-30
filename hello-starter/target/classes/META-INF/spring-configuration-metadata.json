@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "hello",
+      "type": "com.starter.config.HelloStarterProperty",
+      "sourceType": "com.starter.config.HelloStarterProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hello.prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.starter.config.HelloStarterProperty"
+    },
+    {
+      "name": "hello.suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.starter.config.HelloStarterProperty"
+    }
+  ],
+  "hints": []
+}
