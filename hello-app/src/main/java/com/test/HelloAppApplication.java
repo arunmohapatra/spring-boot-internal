@@ -17,6 +17,6 @@ public class HelloAppApplication {
 //
 //    @Bean
 //    public HelloService createHelloServiceBean(){
-//        return new HelloServiceImpl("hello-app");
+//        return new HelloServiceImpl("User override prefix","User override suffix");
 //    }
 }

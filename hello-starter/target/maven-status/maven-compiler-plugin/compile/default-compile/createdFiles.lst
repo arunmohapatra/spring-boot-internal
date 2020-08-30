@@ -1,1 +1,3 @@
-com\starter\config\HelloServiceStarterConfig.class
+com\starter\config\HelloStarterProperty.class
+com\starter\config\HelloStarterService.class
+META-INF\spring-configuration-metadata.json
