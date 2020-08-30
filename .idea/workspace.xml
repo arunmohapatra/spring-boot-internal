@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c716c53-31fc-4c62-acb3-98d726c910a4" name="Default Changelist" comment="" />
+    <list default="true" id="9c716c53-31fc-4c62-acb3-98d726c910a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hello-starter/src/main/java/com/starter/condition/InputPropertyValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-starter/src/main/java/com/starter/config/HelloStarterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-starter/src/main/java/com/starter/config/HelloStarterService.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/module1/target/" />
@@ -47,15 +51,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-starter/src/main/resources/META-INF/spring.factories">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello-app/src/main/java/com/test/HelloAppApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -82,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello-app/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -100,13 +95,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello-starter/src/main/java/com/starter/config/HelloStarterService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+            <state relative-caret-position="242">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello-starter/src/main/java/com/starter/condition/InputPropertyValidation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,6 +177,7 @@
         <option value="$PROJECT_DIR$/hello-starter/src/main/java/com/starter/config/HelloStarterProperty.java" />
         <option value="$PROJECT_DIR$/hello-app/src/main/java/com/test/HelloAppApplication.java" />
         <option value="$PROJECT_DIR$/hello-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-starter/src/main/java/com/starter/condition/InputPropertyValidation.java" />
         <option value="$PROJECT_DIR$/hello-starter/src/main/java/com/starter/config/HelloStarterService.java" />
         <option value="$PROJECT_DIR$/hello-app/src/main/resources/application.properties" />
       </list>
@@ -248,55 +258,11 @@
               <item name="hello-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloappdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloappdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloappdemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloappdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloappdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloappdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloappdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloappdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloappdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloappdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloappdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloappdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloappdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloappdemo" type="462c0819:PsiDirectoryNode" />
               <item name="hello-starter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -327,6 +293,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloappdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloappdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -338,7 +314,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598806299272" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598807198328" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/test/test/pom.xml" />
   </component>
   <component name="RunDashboard">
@@ -393,8 +369,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1488" height="803" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25664335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25664335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -404,7 +381,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32784432" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32934132" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.23353294" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.44311377" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4011976" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -416,7 +393,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24965034" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.22447552" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.13426574" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -506,10 +483,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-app/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/hello-starter/src/main/java/com/starter/condition/InputPropertyValidation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -532,11 +514,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-starter/src/main/java/com/starter/config/HelloStarterService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        <state relative-caret-position="242">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-app/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
